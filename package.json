@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cat-me": "^1.0.3",
+    "figlet": "^1.5.2"
+  }
+}
